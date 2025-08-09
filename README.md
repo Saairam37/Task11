@@ -160,4 +160,4 @@ Authorization: Bearer your-jwt-token
 
 You can test all the API endpoints using the Postman documentation below:
 
-🔗 https://documenter.getpostman.com/view/43648661/2sB3B7PDzA
+🔗 https://documenter.getpostman.com/view/45894497/2sB3B7NDPY
